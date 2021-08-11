@@ -1,0 +1,1 @@
+Every time an individual books an Uber ride from application, Uber saves their location (longitude and latitude) with a timestamp. Uber has been collecting this data since their functioning. Uber uses this data to determine the optimal position of cabs.
